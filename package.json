@@ -1,0 +1,22 @@
+{
+  "name": "tipeeestream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Peschonaut@github.com/Peschonaut/Tipeeestream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peschonaut/Tipeeestream/issues"
+  },
+  "homepage": "https://github.com/Peschonaut/Tipeeestream#readme",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  }
+}
